@@ -1,1 +1,4 @@
-# discord-moderation-template
+# Basic Discord Moderation Bot With Python
+
+# Requirements
+- discord
