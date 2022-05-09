@@ -1,10 +1,8 @@
 import discord
 from discord.ext import commands
-from discord.utils import get
 
 TOKEN = ""
 intents = discord.Intents.all()
-prefix = "."
 client = commands.Bot(command_prefix='.', intents=intents)
 client.remove_command('help')
 
