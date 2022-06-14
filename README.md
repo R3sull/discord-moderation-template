@@ -12,3 +12,7 @@
 2) Use Terminal and paste "pip install discord"
 3) Paste Your Bot Token
 4) Run ▶
+
+# Important Note
+
+Don't forget open discord intents in Discord Application Portal
